@@ -1,2 +1,0 @@
-this is first assignment of it
-code.txt is my first file.
