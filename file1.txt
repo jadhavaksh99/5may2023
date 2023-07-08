@@ -1,6 +1,9 @@
-pwd
-ls -ltr
-date
-uname -a
-ps
-top
+pipeline{
+  agent any
+  stages{
+    stage'build'{
+      steps{
+        echo "helo"
+    }
+  }
+}
