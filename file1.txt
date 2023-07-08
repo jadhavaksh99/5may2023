@@ -3,3 +3,4 @@ pwd
 ls -ltr
 date
 uname -a
+ps
