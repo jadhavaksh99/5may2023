@@ -1,4 +1,3 @@
-#new file added
 pwd
 ls -ltr
 date
