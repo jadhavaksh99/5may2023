@@ -3,3 +3,4 @@ ls -ltr
 date
 uname -a
 ps
+top
